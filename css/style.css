@@ -1,0 +1,22 @@
+
+#myheader{
+    background-image: url(../img/smartphone-1894723_1920.jpg);
+    min-height: 700px;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#myheader .myoverlay{
+    background-color: rgba(54,15,66,0.6);
+    width: 100%;
+    min-height: 700px;
+}
+.col{
+    width: 100px;
+   
+}
+ #myabout .bg-color{
+    background-color: #eee;
+}
+#myfeature{
+    background-color: purple;
+}
