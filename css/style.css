@@ -1,4 +1,7 @@
-
+body{
+    font-family: roboto;
+    
+    }
 #myheader{
     background-image: url(../img/smartphone-1894723_1920.jpg);
     min-height: 700px;
@@ -18,5 +21,8 @@
     background-color: #eee;
 }
 #myfeature{
-    background-color: purple;
+    background-color: #440351;
 }
+#mypost .komal{
+    background-color: #440351;
+  }
